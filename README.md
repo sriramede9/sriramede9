@@ -13,6 +13,7 @@
 * Best Coding practices
 * SOLID principles
 * Data Structures and Algorithms
+* Design Patterns
 * MYSQL and MongoDB
 * Angular , React 
 * Node JS
