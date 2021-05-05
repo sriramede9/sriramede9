@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**sriramede9/sriramede9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I am SRI RAM EDE 
+  * Software Developer @ TRINETRA SYSTEMS INC
+  
+### I am available to study and knowledge share of videos, courses, or articles on the following topics:
 
-Here are some ideas to get you started:
+* Java
+* JavaScript
+* Spring Boot
+* Microservices
+* RESTfull API's
+* Best Coding practices
+* SOLID principles
+* Data Structures and Algorithms
+* MYSQL and MongoDB
+* Angular , React 
+* Node JS
+* Git
+* Mutable, Immutable
+* Threads in Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Github Stats
+
+This doesn't take into account the work done in forks, organizations, or private repos.
+
+[![Sri's GitHub stats](https://github-readme-stats.vercel.app/api?username=sriramede9)](https://github.com/sriramede9/github-readme-stats)
+
