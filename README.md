@@ -25,5 +25,5 @@
 
 This doesn't take into account the work done in forks, organizations, or private repos.
 
-[![Sri's GitHub stats](https://github-readme-stats.vercel.app/api?username=sriramede9)](https://github.com/sriramede9/github-readme-stats)
+[![Sri's GitHub stats](https://github-readme-stats.vercel.app/api?username=sriramede9)](https://github-readme-stats.vercel.app/api?username=sriramede9)
 
