@@ -5,7 +5,7 @@
   
 ### I am available to study and knowledge share of videos, courses, or articles on the following topics:
 
-* Java ![Java](https://images.app.goo.gl/uFbVLz8UXiXhSF4S6)
+* Java ![Java](https://fsb.zobj.net/crop.php?r=A-V2i6iPiYdih5wjAVT7RkmshvtJk3oli9-jHKfpFK5EijZ0x5eWPuPitivQzw2nd5f1BxZqUX1B0EcFcVnULS3I9QtIJRWcru6FHdBX0sl97pq3632U_BFQUieEp4jTH4VF2XYw3w5BgwDp)
 * JavaScript
 * Spring Boot
 * Microservices
