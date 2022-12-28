@@ -14,7 +14,7 @@
 * SOLID principles
 * Data Structures and Algorithms
 * Design Patterns
-* MYSQL and MongoDB
+* MYSQL and MongoDB - Aggregations in Mongodb 
 * Angular , React 
 * Node JS
 * Git
