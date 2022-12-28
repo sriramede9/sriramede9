@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # I am SRI RAM EDE 
-  * Software Developer @ TRINETRA SYSTEMS INC
+  * Software Developer 
   
 ### I am available to study and knowledge share of videos, courses, or articles on the following topics:
 
