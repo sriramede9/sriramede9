@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I am SRI RAM EDE 
+# I am SRI RAM
   * Software Developer 
   
 ### I am available to study and knowledge share of videos, courses, or articles on the following topics:
