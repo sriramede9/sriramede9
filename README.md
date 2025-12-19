@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on mocking -> AIR-BNB with Spring Boot , Microservices , RabbitMQ , MongoDB , GCP , Jenkins<br>👯 I’m looking to collaborate on -> Java , MongoDB , GCP , AWS , Spring Boot , Microservices , Angular and React<br>🤝 I’m looking for help with -> coming close to FullStack + CICD builds<br>🌱 I’m currently learning -> Kubernates , Microservices architecture, Docker compose , Spring boot and DSA<br>💬 Ask me about -> my current project and challenges<br>⚡ Fun fact -> I am using NotesGPT cause I need key points and summary for any Youtube I am interested and saves tons of time
+🔭 I’m currently working on mocking -> AI with Spring Boot , Microservices , RabbitMQ , MongoDB , GCP , Jenkins , Kafka<br>👯 I’m looking to collaborate on -> Java , MongoDB , GCP , AWS , Spring Boot , Microservices , Angular and React<br>🤝 I’m looking for help with -> coming close to FullStack + CICD builds<br>🌱 I’m currently learning -> Kubernates , Microservices architecture, Docker compose , Spring boot and DSA<br>💬 Ask me about -> my current project and challenges<br>⚡ Fun fact -> I am using NotesGPT cause I need key points and summary for any Youtube I am interested and saves tons of time
 
 
 ## 🌐 Socials:
