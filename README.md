@@ -1,5 +1,19 @@
 # 💫 About Me:
-🔭 I’m currently working on mocking -> AI with Spring Boot , Microservices , RabbitMQ , MongoDB , GCP , Jenkins , Kafka<br>👯 I’m looking to collaborate on -> Java , MongoDB , GCP , AWS , Spring Boot , Microservices , Angular and React<br>🤝 I’m looking for help with -> coming close to FullStack + CICD builds<br>🌱 I’m currently learning -> Kubernates , Microservices architecture, Docker compose , Spring boot and DSA<br>💬 Ask me about -> my current project and challenges<br>⚡ Fun fact -> I am using NotesGPT cause I need key points and summary for any Youtube I am interested and saves tons of time
+
+Senior Java Developer with 7+ years of experience, currently building high-performance distributed systems in the Ontario/Quebec tech landscape.
+
+* 🔭 **Currently Building:** AI-integrated microservices using **Spring Boot 3**, **RabbitMQ**, **Kafka**, and **MongoDB**, deployed on **GCP**.
+* 👯 **Open to Collaborate:** Enterprise Java ecosystems, Cloud-native migrations (AWS/GCP), and modern Frontend integrations (React/Angular).
+* 🤝 **Seeking Mentorship:** Refining advanced CI/CD pipelines and full-stack orchestration at scale.
+* 🌱 **Deep Diving:** **Kubernetes (K8s)**, System Design patterns, and mastering Data Structures & Algorithms (DSA).
+* 💬 **Ask Me About:** Java 8 to 21 migrations, Multithreading, Pub/Sub architectures, and Dockerizing complex environments.
+* ⚡ **Efficiency Hack:** I leverage NotesGPT to synthesize technical deep-dives and YouTube tutorials—optimizing my learning curve for the M4 Mac Mini era.
+
+---
+### 🛠️ Tech Stack:
+**Backend:** Java (Core, Streams, Multithreading), Spring Boot, Spring Security  
+**Data & Messaging:** SQL, MongoDB, Kafka, RabbitMQ  
+**DevOps:** Docker, Kubernetes, GCP, Jenkins
 
 
 ## 🌐 Socials:
