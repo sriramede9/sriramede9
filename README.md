@@ -45,9 +45,7 @@ Senior Java Developer with 7+ years of experience, currently building high-perfo
 ![DSA](https://img.shields.io/badge/Learning-DSA%20(LeetCode)-FFA116?style=flat-square&logo=leetcode&logoColor=white)
 
 ---
-### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=sriramede9&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)
