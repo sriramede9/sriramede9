@@ -38,9 +38,9 @@ With a decade of experience engineering high-performance distributed systems, I 
 
 ---
 
-### 📊 By the Numbers:
+### 🔥 Contribution Streak Tracker:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sriramede9&hide_border=true&bg_color=00000000&title_color=61DAFB&text_color=7F849C&icon_color=61DAFB&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=sriramede9&theme=aura_dark&hide_border=false" alt="My GitHub Streak" />
 </div>
 
 <br/>
