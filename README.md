@@ -38,6 +38,14 @@ With a decade of experience engineering high-performance distributed systems, I 
 
 ---
 
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=sriramede9&show_icons=true&theme=aura_dark&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sriramede9&layout=compact&theme=aura_dark&hide_border=true"/>
+
+</div>
+
 ### 🔥 Contribution Streak Tracker:
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=sriramede9&theme=aura_dark&hide_border=false" alt="My GitHub Streak" />
